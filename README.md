@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sekelenao</h1>
 <h3 align="center">A Master student from France</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
