@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Master's student from France</h1>
+<h1 align="center">👨‍💻</h1>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sekelenao&show_icons=true&locale=en&layout=compact&theme=dark" alt="sekelenao" /><p/>
 
