@@ -10,12 +10,6 @@ French fan of OOP born in 1999. I earned a Master degree in Software and Data En
 
 <h5>
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![SpringSec](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-  ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB.svg?style=for-the-badge&logo=Quarkus&logoColor=white)
-
   Java is the technology in which I possess the highest level of expertise, a proficiency acquired through learning from esteemed experts in the field. The areas I have delved into include :
 
   - Full-stack development using Spring and ORM (and briefly Quarkus)
@@ -25,12 +19,30 @@ French fan of OOP born in 1999. I earned a Master degree in Software and Data En
   - JDBC connectors (PostgreSQL, Redis, Oracle DB)
   - Kafka library
 
+<h2>
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![SpringSec](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+  ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB.svg?style=for-the-badge&logo=Quarkus&logoColor=white)
+
+</h2>
+
+  I have worked with these languages and frameworks as part of my full-stack development in Java. Angular and TypeScript are my favorite technologies, and the ones I have the most experience with. I often use TypeScript with object-oriented programming (yes, you might have guessed).
+
+  <h2>
+
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
   ![Ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-  I have worked with these languages and frameworks as part of my full-stack development in Java. Angular and TypeScript are my favorite technologies, and the ones I have the most experience with. I often use TypeScript with object-oriented programming (yes, you might have guessed).
+</h2>
 
+  During my studies, I extensively worked with PostgreSQL and all its functionalities, as well as NoSQL databases, Apache Spark, Cypher, Redis, and Kafka. Additionally, I used OracleDB during my professional experience.
+
+<h2>
+  
   ![Psql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
   ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
@@ -40,13 +52,7 @@ French fan of OOP born in 1999. I earned a Master degree in Software and Data En
   ![Gql](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
   ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
 
-  During my studies, I extensively worked with PostgreSQL and all its functionalities, as well as NoSQL databases, Apache Spark, Cypher, Redis, and Kafka. Additionally, I used OracleDB during my professional experience.
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-  ![Tf](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Scikit](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+</h2>
   
   During my studies and free time, I had the opportunity to extensively work with Python for various tasks and domains:
   
@@ -54,15 +60,30 @@ French fan of OOP born in 1999. I earned a Master degree in Software and Data En
   - OOP: game development, application of filters on images using C libraries.
   - Office Automation: automating repetitive tasks.
 
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<h2>
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+  ![Tf](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Scikit](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+
+</h2>
 
   I studied C and computer architecture for 3 years. This provided me with a very precise understanding of what happens in the machine with each code instruction, regardless of the language. I only delved into C++ for 6 months, acquiring fundamentals such as ownership and standard libraries.
 
-  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<h2>
+  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</h2>
   
   To program on my free time.
+  
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 
 </h5>
 
