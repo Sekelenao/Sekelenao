@@ -6,7 +6,7 @@
 
 <h5 align="center">
 
-  [!(https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Sekelenao)
+  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Sekelenao)
 
 </h5>
 
