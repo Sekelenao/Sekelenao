@@ -7,7 +7,7 @@
 
   Java is by far the technology I master the most because I had the opportunity to learn from recognized experts in this language. The areas I have covered include:
 
-  - Full-stack development using Spring (and briefly Quarkus)
+  - Full-stack development using Spring
   - Implementation of complex data structures
   - Concurrency and vectorization
   - Design patterns
@@ -19,14 +19,25 @@
   ![Ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
   I have worked with these languages and frameworks as part of my full-stack development in Java. Angular and TypeScript are my favorite technologies, and the ones I have the most experience with. I often use TypeScript with object-oriented programming (yes, you might have guessed).
+
+  ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Psql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+  During my studies, I extensively worked with PostgreSQL and all its functionalities, as well as NoSQL databases, Apache Spark, and Kafka. Additionally, I used OracleDB during my professional experience.
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Tf](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   
   During my studies and free time, I had the opportunity to extensively work with Python for various tasks and domains:
   
   - Data Science: neural networks, dataframes, data formatting.
   - OOP: game development, application of filters on images using C libraries.
   - Office Automation: automating repetitive tasks.
+
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+  I studied C and computer architecture for programming for 3 years. This provided me with a very precise understanding of what happens in the machine with each code instruction, regardless of the language. I only delved into C++ for 6 months, acquiring fundamentals such as ownership and standard libraries.
 
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
   
