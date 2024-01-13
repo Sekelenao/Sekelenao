@@ -70,6 +70,8 @@ French fan of OOP born in 1999. I earned a Master degree in Software and Data En
 <h5 align="center">
 
   [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Sekelenao)
+
+  Contact : Sekelenao@protonmail.com
   
 </h5>
 
