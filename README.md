@@ -8,6 +8,11 @@
   
   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   
+  During my studies and free time, I had the opportunity to extensively work with Python for various tasks and domains:
+  
+    - Data Science: neural networks, dataframes, data formatting.
+    - OOP: game development, application of filters on images using C libraries.
+    - Office Automation: automating repetitive tasks.
 
 </h5>
 
