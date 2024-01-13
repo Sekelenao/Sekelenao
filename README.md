@@ -6,10 +6,11 @@
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![SpringSec](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+  ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB.svg?style=for-the-badge&logo=Quarkus&logoColor=white)
 
   Java is by far the technology I master the most because I had the opportunity to learn from recognized experts in this language. The areas I have covered include:
 
-  - Full-stack development using Spring and ORM
+  - Full-stack development using Spring and ORM (and briefly Quarkus)
   - Implementation of complex data structures
   - Concurrency and vectorization
   - Design patterns
