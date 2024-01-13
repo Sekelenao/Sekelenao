@@ -16,7 +16,7 @@ French fan of OOP born in 1999. I earned a Master degree in Software and Data En
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
   ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB.svg?style=for-the-badge&logo=Quarkus&logoColor=white)
 
-  Java is by far the technology I master the most because I had the opportunity to learn from recognized experts in this language. The areas I have covered include:
+  Java is the technology in which I possess the highest level of expertise, a proficiency acquired through learning from esteemed experts in the field. The areas I have delved into include :
 
   - Full-stack development using Spring and ORM (and briefly Quarkus)
   - Implementation of complex data structures
