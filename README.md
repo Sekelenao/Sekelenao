@@ -2,5 +2,7 @@
 
 ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-![contact](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) Contact : sekelenao@protonmail.com
+Socials :
+  - ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) https://www.codewars.com/users/Sekelenao
+  - ![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) sekelenao@protonmail.com
 
