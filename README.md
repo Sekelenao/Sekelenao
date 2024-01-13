@@ -38,6 +38,7 @@ French fan of OOP born in 1999. I earned a Master degree in Software and Data En
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
   ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
   ![Gql](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
 
   During my studies, I extensively worked with PostgreSQL and all its functionalities, as well as NoSQL databases, Apache Spark, Cypher, Redis, and Kafka. Additionally, I used OracleDB during my professional experience.
   
