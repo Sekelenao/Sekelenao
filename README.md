@@ -1,6 +1,6 @@
 <h2 align="center"> Main technologies </h2>
 
-<h5 align="center">
+<h5>
 
   ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
   
