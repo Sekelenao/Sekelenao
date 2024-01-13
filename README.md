@@ -4,9 +4,9 @@
 
 <h2 align="center"> Socials </h2>
 
-<p align="center">
+<h5 align="center">
 
   [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Sekelenao)
 
-</p>
+</h5>
 
