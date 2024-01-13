@@ -18,7 +18,7 @@
   - Kafka library
 
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
   ![Ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
   I have worked with these languages and frameworks as part of my full-stack development in Java. Angular and TypeScript are my favorite technologies, and the ones I have the most experience with. I often use TypeScript with object-oriented programming (yes, you might have guessed).
