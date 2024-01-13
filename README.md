@@ -9,7 +9,7 @@
 
   Java is by far the technology I master the most because I had the opportunity to learn from recognized experts in this language. The areas I have covered include:
 
-  - Full-stack development using Spring
+  - Full-stack development using Spring and ORM
   - Implementation of complex data structures
   - Concurrency and vectorization
   - Design patterns
