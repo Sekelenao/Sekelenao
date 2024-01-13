@@ -1,6 +1,10 @@
 <h1 align="center"> Sekelenao </h1>
 
+<h5>
+
 French fan of OOP born in 1999. I earned a Master degree in Software and Data Engineering. Always looking for new challenges and opportunities.
+
+</h5>
 
 <h2 align="center"> Main technologies </h2>
 
