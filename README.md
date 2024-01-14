@@ -6,7 +6,7 @@ Hi ! My name is Yohann, I'm born in 1999 and I'm a french fan of OOP. I earned a
 
   Java is the technology in which I possess the highest level of expertise, a proficiency acquired through learning from esteemed experts in the field. The areas I have delved into include :
 
-  - Full-stack development using Spring and ORM (and briefly Quarkus)
+  - Full-stack development using Spring and ORM
   - Implementation of complex data structures
   - Concurrency and vectorization
   - Design patterns
@@ -19,7 +19,6 @@ Hi ! My name is Yohann, I'm born in 1999 and I'm a french fan of OOP. I earned a
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![SpringSec](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-  ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB.svg?style=for-the-badge&logo=Quarkus&logoColor=white)
 
 </h2>
 
