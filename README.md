@@ -1,14 +1,8 @@
 <h1 align="center"> Sekelenao </h1>
 
-<h5>
-
 Hi ! My name is Yohann, I'm born in 1999 and I'm a french fan of OOP. I earned a Master degree in Software and Data Engineering. Always looking for new challenges and opportunities.
 
-</h5>
-
 <h2 align="center"> Main technologies </h2>
-
-<h5>
 
   Java is the technology in which I possess the highest level of expertise, a proficiency acquired through learning from esteemed experts in the field. The areas I have delved into include :
 
@@ -92,6 +86,4 @@ Hi ! My name is Yohann, I'm born in 1999 and I'm a french fan of OOP. I earned a
   [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Sekelenao)
 
   Contact : Sekelenao@protonmail.com
-  
-</h5>
 
