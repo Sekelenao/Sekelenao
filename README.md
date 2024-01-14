@@ -2,7 +2,7 @@
 
 <h5>
 
-My name is Yohann, I'm born in 1999 and I'm a french fan of OOP. I earned a Master degree in Software and Data Engineering. Always looking for new challenges and opportunities.
+Hi ! My name is Yohann, I'm born in 1999 and I'm a french fan of OOP. I earned a Master degree in Software and Data Engineering. Always looking for new challenges and opportunities.
 
 </h5>
 
