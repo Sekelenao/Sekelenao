@@ -32,7 +32,7 @@ Hi ! My name is Yohann, I'm born in 1999 and I'm a french fan of OOP. I earned a
 
 </h2>
 
-  During my studies, I extensively worked with PostgreSQL and all its functionalities, as well as NoSQL databases, Apache Spark, Cypher, Redis, and Kafka. Additionally, I used OracleDB during my professional experience.
+  During my studies, I extensively worked with PostgreSQL and all its functionalities, as well as Apache Spark, Cypher, Redis, and Kafka. Additionally, I used OracleDB during my professional experience.
 
 <h2>
   
